@@ -1,0 +1,5 @@
+homepage: "https://videsk.io"
+documentation: "https://docs.videsk.io"
+versions:
+  - sha: 52fed373e3495f1608fbf348b339dee6d57c4284
+    changeNotes: Initial release.
